@@ -1,3 +1,5 @@
+# notacja węgierska
+
 Typy zmiennych:
 i      - liczba całkowita (integer)
 f      - liczba zmiennoprzecinkowa (float)
